@@ -17,9 +17,9 @@ This project dives deep into automobile data to answer this fundamental question
 ### �� Top Price Predictors
 | Rank | Feature | Correlation | Impact |
 |------|---------|-------------|---------|
-| 1 | **Engine Size** | 0.872 | �� Very Strong |
+| 1 | **Engine Size** | 0.872 | 🔥 Very Strong |
 | 2 | **Curb Weight** | 0.834 | 🔥 Very Strong |
-| 3 | **Horsepower** | 0.810 | �� Very Strong |
+| 3 | **Horsepower** | 0.810 | 🔥 Very Strong |
 | 4 | **Width** | 0.751 | 💪 Strong |
 | 5 | **Length** | 0.691 | 💪 Strong |
 
